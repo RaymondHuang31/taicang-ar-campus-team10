@@ -14,3 +14,7 @@ Mobile starts in an independent classic-JS SVG map, no Three.js fetch until the 
 Replaced the seven building footprints with open U contours, made the learning street a narrow elevated gallery, split dry paths and bridge spans at river crossings, added continuous embankments and bridge rails. Added perimeter roads, rounded track, courts, twin halls, auditorium and eastern contextual blocks.
 All dimensions remain photo-proportioned. Peripheral blocks are contextual massing, not verified building inventories. The photos do not establish survey scale, exact heights or indoor plans; no claim of a 1:1 digital twin is made.
 Navigation edge samples pass collision checks. Mobile defaults to the independent lightweight map. Physical iPhone/Huawei devices have not been tested.
+
+
+## v0.6.0 on-campus signage reference (2026-10-28)
+Three user-supplied photographs of the physical campus wayfinding board provide building/wing labels, school uses, facility positions and POI floor annotations. This supersedes earlier assumptions about D as the library and F as a restaurant. The library marker 9 appears at E's inner curved side; its key reads Library 1F. The sign does not list F in the photographed school legend. Sports ground lies below-left of the ring; pool and stadium above-left. Camera perspective is not survey scale. Bridge arches follow the user's explicit clarification; rise values remain illustrative. Photos are not redistributed.
